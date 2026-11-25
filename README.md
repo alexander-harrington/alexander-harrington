@@ -2,36 +2,20 @@
 
 ### Hi, I'm Alexander
 
-I run [Neon Atlas](https://neonatlas.uk), a small, independent software company in the UK, and I
-design and build its products.
+I run [Neon Atlas](https://neonatlas.uk), a small, independent software company in the UK, and I design and build its products.
 
 <br clear="left">
 
-**What I'm working on**
+## Live projects
 
-<table>
-  <tr>
-    <td width="88"><a href="https://cabana.today"><img src="assets/cabana.png" width="64" height="64" alt="Cabana"></a></td>
-    <td><strong><a href="https://cabana.today">Cabana</a></strong><br>A calendar and nested to-do planner, on the web, iPhone, iPad and Android.</td>
-  </tr>
-  <tr>
-    <td><a href="https://tracklim.it"><img src="assets/tracklimit.svg" width="64" height="64" alt="tracklimit"></a></td>
-    <td><strong><a href="https://tracklim.it">tracklimit</a></strong><br>Formula 1 live timing and telemetry, in the browser and on Android.</td>
-  </tr>
-  <tr>
-    <td><a href="https://mintelligence.app"><img src="assets/mintelligence.svg" width="64" height="64" alt="mintelligence"></a></td>
-    <td><strong><a href="https://mintelligence.app">mintelligence</a></strong><br>Adds up a UK online seller's sales for the tax year, box by box for Self Assessment.</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Neon-Atlas/draw-it-out"><img src="assets/draw-it-out.svg" width="64" height="64" alt="draw-it-out"></a></td>
-    <td><strong><a href="https://github.com/Neon-Atlas/draw-it-out">draw-it-out</a></strong><br>A Claude Code plugin that answers questions about your own app from its code. Open source.</td>
-  </tr>
-  <tr>
-    <td><a href="https://playparagon.app"><img src="assets/paragon.svg" width="64" height="64" alt="PARAGON"></a></td>
-    <td><strong><a href="https://playparagon.app">PARAGON</a></strong><br>A game in which you raise an AI in a harbour town. Coming soon.</td>
-  </tr>
-</table>
+| Project | What it does | Where to use it |
+| --- | --- | --- |
+| [Cabana](https://neonatlas.uk/cabana/) | A calendar and nested to-do list for planning your days and sharing plans. | [Web](https://cabana.today/) · [App Store](https://apps.apple.com/app/cabana-planner-to-do-list/id6803259233) · [Google Play](https://play.google.com/store/apps/details?id=today.cabana.app) |
+| [PARAGON](https://neonatlas.uk/paragon/) | A multiplayer RPG where you create an AI and play alongside other players in the harbour city of Port Calder. | [Web](https://play.playparagon.app/) · [App Store](https://apps.apple.com/gb/app/paragon-sentient-city/id6828383489) · [Google Play](https://play.google.com/store/apps/details?id=app.playparagon.paragon) |
+| [tracklimit](https://neonatlas.uk/tracklimit/) | Independent Formula 1 live timing, track maps and driver telemetry. | [Web](https://tracklim.it/) · [App Store](https://apps.apple.com/app/tracklimit-live-race-timing/id6822088045) · [Google Play](https://play.google.com/store/apps/details?id=it.tracklim.app) |
+| [Hikewatch](https://neonatlas.uk/hikewatch/) | Tracks software subscriptions and warns small teams about renewals and price changes. | [Web](https://hike.watch/) |
+| [CreatorFlow](https://neonatlas.uk/creatorflow/) | A marketplace for YouTube sponsorships that estimates how many viewers will reach each slot and measures delivery after publication. | [Web](https://creatorflow.media/) |
 
 Most of my work lives in private repositories under [@Neon-Atlas](https://github.com/Neon-Atlas).
 
-**Get in touch:** [alexander@neonatlas.uk](mailto:alexander@neonatlas.uk)
+[Get in touch](mailto:hello@neonatlas.uk)
